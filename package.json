@@ -1,13 +1,16 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "my first valuable app with nodejs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Halil Sekeroglu",
   "license": "ISC",
+  "engines": {
+    "node": "12.18.2"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
